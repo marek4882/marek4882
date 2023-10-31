@@ -14,5 +14,5 @@ Hello, my name is Marek Ćwioro, and this is a fact about me:
 ## Looking for Opportunities
 🔍 I'm currently seeking my first job or internship as a Front-End Developer.
 
-## Let's Connect
+## Let's Contact
 📫 You can contact me via LinkedIn
