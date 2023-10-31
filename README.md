@@ -8,8 +8,8 @@ Hello, my name is Marek Ćwioro, and this is a fact about me:
 - 🗣️ Communicative
 - 📸 Photography Enthusiast
 
-## Skills
-My Skills
+# Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,cs,git,github,)](https://skillicons.dev)
 
 ## Looking for Opportunities
 🔍 I'm currently seeking my first job or internship as a Front-End Developer.
