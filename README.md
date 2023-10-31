@@ -2,9 +2,9 @@
 Hello, my name is Marek Ćwioro and this is a fact about me:
 
 👨‍🎓 Student at WSEI, Cracow  
-👨‍💻 Front-End Developer  
-🌱 Quick Learner
-🗣️ Communicative
+👨‍💻 Front-End Developer 
+🌱 Quick Learner 
+🗣️ Communicative 
 📸 Photography Enthusiast
 
 # Skills
