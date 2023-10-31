@@ -1,6 +1,5 @@
-### Hi there 👋
-
-# This is a fact about me:
+# Hi there 👋
+Hello, my name is Marek Ćwioro and this is a fact about me:
 👨‍🎓 Student at WSEI, Cracow  
 👨‍💻 Front-End Developer  
 🌱 Quick Learner | 🗣️ Communicative
@@ -11,5 +10,5 @@
 ## Let's Connect
 📫 You can contact me by [LinkedIn](https://www.linkedin.com/in/marek-%C4%87wioro-3a26b822b/)
 
-## My Hobby
+### My Hobby
 📸 Photography
