@@ -9,11 +9,8 @@ Hello, my name is Marek Ćwioro and this is a fact about me:
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,cs,git,github,)](https://skillicons.dev)
 
-## Looking for Opportunities
+### Looking for Opportunities
 🔍 I'm currently seeking my first job or internship as a Front-End Developer.
 
-## Let's Connect
+### Let's Connect
 📫 You can contact me by [LinkedIn](https://www.linkedin.com/in/marek-%C4%87wioro-3a26b822b/)
-
-### My Hobby
-📸 Photography
