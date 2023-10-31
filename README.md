@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**marek4882/marek4882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# This is a fact about me:
+👨‍🎓 Student at WSEI, Cracow  
+👨‍💻 Front-End Developer  
+🌱 Quick Learner | 🗣️ Communicative
 
-Here are some ideas to get you started:
+## Looking for Opportunities
+🔍 I'm currently seeking my first job or internship as a Front-End Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect
+📫 You can contact me by [LinkedIn](https://www.linkedin.com/in/marek-%C4%87wioro-3a26b822b/)
+
+## My Hobby
+📸 Photography
